@@ -9,7 +9,7 @@
   
   
   
-	2.	Repeat the first exercise with LinkedList.
+2.	Repeat the first exercise with LinkedList.
   
   
 	a.	After you have done parts (a) and (b) from question 1 for LinkedList, traverse the LinkedList in reverse order and convert capital letters to lowercase. Print the list and its size. The output should be in reverse order of the actual input list.
